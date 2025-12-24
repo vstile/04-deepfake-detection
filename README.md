@@ -105,6 +105,6 @@ Privacy and reuse policy
 Short attribution text you can include in derivative works:
 ```
 This material reuses data and methods from:
-Stile, V. (2025). “Analisi dei DeepFake generati tramite AI [Analysis of deepfakes generated via AI],” Ph.D. dissertation, Universitas Mercatorum, Roma.
-© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation” Ph.D. dissertation, Universitas Mercatorum, Roma.
+© 2025/2026 Vittorio Stile - Licensed under CC BY 4.0.
 ```
