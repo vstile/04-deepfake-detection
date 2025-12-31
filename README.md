@@ -5,7 +5,7 @@ Educational projects and experiments on deepfake detection. This repo gathers ex
 
 > Educational, internal study on video-level DeepFake **detection** conducted at PwC. The goal is clarity and reproducibility, not chasing state-of-the-art scores.
 
-![System architecture](figs/system_architecture.png)
+![System architecture](figs/system_architecture_v2.png)
 
 ## Overview
 We build a transparent baseline that relies on two ingredients only:  
